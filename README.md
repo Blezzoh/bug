@@ -1,4 +1,4 @@
-# Bug ( almost a mosquito)
+# Bug (almost a mosquito)
 
 This is a bug that resembles to a mosquito. The logic of it is based on the understanding basic geometry,
 a little bit of C++, and an OPENGL library called GLUT.
